@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(to left, green, yellow, red, orange, blue);
+    text-align: center;
+}
+#logout{
+  margin-left: 75%;  
+}
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: black;
+}
+.input_div_message_page label
+{
+	color: white;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.user_tick
+{
+	width:20px;
+}
